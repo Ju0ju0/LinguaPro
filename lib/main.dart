@@ -121,5 +121,3 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-
-#il y  plein d'erreurs dans le code 
