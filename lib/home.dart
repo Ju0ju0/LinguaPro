@@ -158,7 +158,7 @@ class HomeScreen extends StatelessWidget {
           ),
           SizedBox(height: 10),
           Text(
-            "Complétez 5 leçons pour gagner une récompense !",
+            "Complétez les 5 leçons pour gagner une récompense !",
             style: TextStyle(
               fontSize: 14,
               color: Colors.grey,
@@ -230,7 +230,7 @@ class HomeScreen extends StatelessWidget {
       children: [
         _statItem('Leçons', '12'),
         _statItem('Mots', '245'),
-        _statItem('Jours', '7'),
+        _statItem('Jours', '15'),
       ],
     );
   }
